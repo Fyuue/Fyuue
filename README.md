@@ -64,5 +64,5 @@
 ---
 
 <p align="center">
-  &copy; <a href="https://github.com/Fyuue">Copyright Mizzuue - 2026</a>
+  &copy; <a href="https://github.com/Fyuue">Copyright Fyuue - 2026</a>
 </p>
