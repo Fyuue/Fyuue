@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mizzuu</h1>
+<h1 align="center">Hi 👋, I'm Fyue</h1>
 <h3 align="center">🚀 Lowstack Developer | ⚡ Tech Enthusiast | 🎯 Problem Solver</h3>
 
 <!-- TYPING ANIMATION -->
@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **JavaScript, Node.js**
 - ⚡ Fun fact: I debug with console.log 😆
 
@@ -40,7 +40,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mizzuue/Mizzuue/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Fyuue/Fyuue/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -48,13 +48,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/mizzuu.css">
+  <a href="https://instagram.com/oh_y.ok">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://wa.me/6281359932022">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
   </a> 
-  <a href="https://mizzuue.my.id">
+  <a href="https://fyuue.web.id">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /> 
   </a> 
 </p>
@@ -64,5 +64,5 @@
 ---
 
 <p align="center">
-  &copy; <a href="https://github.com/Mizzuue">Copyright Mizzuue - 2026</a>
+  &copy; <a href="https://github.com/Fyuue">Copyright Mizzuue - 2026</a>
 </p>
